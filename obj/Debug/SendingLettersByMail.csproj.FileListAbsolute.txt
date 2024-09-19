@@ -1,0 +1,11 @@
+C:\Users\323\Desktop\32\PatternBridge\bin\Debug\SendingLettersByMail.exe.config
+C:\Users\323\Desktop\32\PatternBridge\bin\Debug\SendingLettersByMail.exe
+C:\Users\323\Desktop\32\PatternBridge\bin\Debug\SendingLettersByMail.pdb
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.MainForm.resources
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.Properties.Resources.resources
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.csproj.GenerateResource.cache
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.exe
+C:\Users\323\Desktop\32\PatternBridge\obj\Debug\SendingLettersByMail.pdb
